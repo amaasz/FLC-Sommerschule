@@ -1,0 +1,8 @@
+BnF_Latin2123*!*!
+******
+
+******
+gte: ; lte: ; when:
+******
+[fol. 105va] INCIPIT PREFA[CIO] LIBRI HUIUS D[OMI]NO S[AN]C[T]O meritur beatissi- mo et apostolico se[m]- per honore suscipi- endo omnique p[rae] co- nio laude celebrando domno hac reueren- tissimo papa aegli- dulfo. marculfus ultimus hac uilissi- mus. omnium mona- chorum utinam s[an]c[t]ae pater iussionem uestra[m] tam efficatiter quam spon- tanie obte[m]perare ua- luissem. quia ia[m] sup[er] uires maee possibilita- tem conatus sum in iunetu[m] [fol. 105vb] a uobis subire negotium cu[m] fere IXX aut ampli- us annos expleam uiuen- do et nectremula ad scri- bendum manus [est] apta nec ad uidendum mihi sufficiunt oculi caligan- ter nec ad excogitandu[m] sensus sufficit ebitudo quia iuxta datum uobis cuiusda[m] prudentissimi uiri in pueris crescit sensus iniueib[us] uiget in senib[us] minuet[ur] p[ro]pte- rea eleganter facere non potui ut uelui. fe- ci tamen ordinatur ut potui. non solum ea que iusisti uerum et quam mul- ta alia ut hanc scedola tam cartas pagensis qua[m] preceptiones regales iux- ta simplicitatem e erusti- citatis meae nature in- timare curaui, scio eni[m] multas fouere pruden- tissimos uiros. et loquen- tissimus hac rectores ad dictandum peritos qui ista si legerent p[ro]mini- ma uelud deletamenta
+******
